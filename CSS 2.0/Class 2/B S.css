@@ -1,0 +1,9 @@
+.box{
+    background-color: orangered;
+    height: 200px;
+    width: 200px;
+    box-shadow: 3px 3px 3px;
+    box-shadow: 3px 3px 3px 3px yellow;
+    box-shadow: 3px 3px 3px 3px yellow, 15px 15px 15px brown;
+    box-shadow: -3px -3px 3px 3px yellow, 15px 15px 15px brown;
+}

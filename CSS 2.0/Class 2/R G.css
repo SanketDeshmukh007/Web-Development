@@ -1,0 +1,9 @@
+.box {
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    background-image: radial-gradient(red,blue);
+    background-image: radial-gradient(red,blue,orange);
+    background-image: radial-gradient(circle,red,blue,orange);
+    background-image: radial-gradient(yellow 5%,orange 10%,red);
+}
