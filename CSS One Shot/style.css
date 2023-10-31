@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#main {
+    height: 100%;
+    width: 100%;
+    /* height: 100px;
+    width: 100px; */
+    /* height: 40%;
+    width: 20%; */
+    /* margin is the space between two elements here body and div */
+    /* margin: top bottom right left; */
+    /* margin: 20px 10px 10px 20px; */
+    /* padding is the space between element itself */
+    /* padding: 20px; */
+    /* background-color: orangered; */
+    /* background-color: antiquewhite;
+    background-image: url(https://images.unsplash.com/photo-1696940171680-bb5b601a540b?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: top; */
+}
